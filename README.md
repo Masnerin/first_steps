@@ -1,1 +1,1 @@
-# first_steps
+# The first steps in Selenium.
